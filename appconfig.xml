@@ -7,7 +7,7 @@
             <description>Some description text here.</description>
             <pubDate>Sun, 30 Dec 2021 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.scg.myhome" sparkle:version="1.1.0" sparkle:os="android" />
-            <enclosure url="https://apps.apple.com/th/app/my-home-by-scg-home" sparkle:version="1.1.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/th/app/my-home-by-scg-home/id1566015050" sparkle:version="1.1.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
